@@ -11,6 +11,17 @@
     <div style="text-align: center; margin-top: 50px;">
         <a href="login.php" style="font-size:30px; color: yellow; text-decoration: none; margin-right: 20px;">Login</a>
         <a href="register.php" style="font-size:30px; color: yellow; text-decoration: none;">Register</a>
+        <h1>dyfhbaocndaad</h1>
+        <br>
+        <div>
+            <table>
+                <tr>
+                    <tr>dbjh s dc </tr>
+                </tr>
+            </table>
+                  
+        </div>
+        
      
 </body>
 </html>
